@@ -1,4 +1,4 @@
-const BASE_URL = '../server/db.json';
+const BASE_URL = 'https://my-json-server.typicode.com/Gramajooo/dbtest';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
