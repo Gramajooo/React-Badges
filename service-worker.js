@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Badges/precache-manifest.499488c2650bec15c93d716b11f65c0b.js"
+  "/React-Badges/precache-manifest.538b37bd017a315a8a1dcc0fa01f7c42.js"
 );
 
 workbox.clientsClaim();
