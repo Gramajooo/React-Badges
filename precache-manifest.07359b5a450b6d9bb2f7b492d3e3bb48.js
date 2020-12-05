@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f6dc0da5fbcdff611b30",
+    "revision": "7e71c365da48afd5d77d",
     "url": "/React-Badges/static/css/main.42bdf5a9.chunk.css"
   },
   {
-    "revision": "f6dc0da5fbcdff611b30",
-    "url": "/React-Badges/static/js/main.f6dc0da5.chunk.js"
+    "revision": "7e71c365da48afd5d77d",
+    "url": "/React-Badges/static/js/main.7e71c365.chunk.js"
   },
   {
     "revision": "5ef06b0e384c8026b0ca",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/React-Badges/static/media/stars.0abcdfcd.svg"
   },
   {
-    "revision": "0458e685eb22da732cbbd990a1bf1dfe",
+    "revision": "1bf8734157f196a233f5ee4ee9c3eb4b",
     "url": "/React-Badges/index.html"
   }
 ];
