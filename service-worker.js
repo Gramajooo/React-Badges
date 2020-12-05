@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Gramajooo/React-Badges.git/precache-manifest.5acc2e61e8965c3b4462ec8bd5b08a1e.js"
+  "/React-Badges/precache-manifest.aaa0b93dcd2eeb623cdedab09635473a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Gramajooo/React-Badges.git/index.html", {
+workbox.routing.registerNavigationRoute("/React-Badges/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
